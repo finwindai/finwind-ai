@@ -1,27 +1,39 @@
 # Finwind AI
 
-**Finwind AI** is an innovative platform dedicated to transforming the financial industry through advanced artificial intelligence solutions. Our mission is to empower businesses and individuals with smart, data-driven financial tools that facilitate better decision-making.
+Finwind AI helps people reduce financial stress using AI-powered financial clarity tools.
 
----
+## Current MVP
+### AI Financial Stress Assessment
 
-## Features
+Users answer a short financial questionnaire and receive:
+- Financial stress score
+- AI-generated financial insights
+- Personalized action plan
+- Recommendations to improve financial stability
 
-- AI-powered financial analytics and insights
-- Automated data processing and reporting
-- Customizable dashboards and tools
-- User-friendly interface suitable for non-technical users
-- Secure and scalable architecture
+## Mission
+Help people make calmer and smarter financial decisions.
 
----
+## Tech Stack
+- Frontend: Lovable
+- Backend: Replit
+- CRM: Airtable
+- Documentation: Notion
+- Repository: GitHub
 
-## Getting Started
+## Roadmap
+### Phase 1
+- Landing page
+- Waitlist
+- AI assessment
+- User feedback
 
-### Prerequisites
-- Basic understanding of your project goals
-- Access to GitHub (for managing code and collaboration)
+### Phase 2
+- Budget planner
+- Debt tracker
+- Savings goals
 
-### Setup Instructions
-1. **Clone the repository:**
-   
-   ```bash
-   git clone https://github.com/yourusername/finwind-ai.git
+### Phase 3
+- AI financial assistant
+- Personalized coaching
+- Financial wellness platform
